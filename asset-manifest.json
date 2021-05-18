@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/assignment-Snaptrude/static/css/main.314f80ed.chunk.css",
+    "main.js": "/assignment-Snaptrude/static/js/main.ffb162fc.chunk.js",
+    "main.js.map": "/assignment-Snaptrude/static/js/main.ffb162fc.chunk.js.map",
+    "runtime-main.js": "/assignment-Snaptrude/static/js/runtime-main.838c7aaa.js",
+    "runtime-main.js.map": "/assignment-Snaptrude/static/js/runtime-main.838c7aaa.js.map",
+    "static/css/2.07949dcd.chunk.css": "/assignment-Snaptrude/static/css/2.07949dcd.chunk.css",
+    "static/js/2.b9b196c9.chunk.js": "/assignment-Snaptrude/static/js/2.b9b196c9.chunk.js",
+    "static/js/2.b9b196c9.chunk.js.map": "/assignment-Snaptrude/static/js/2.b9b196c9.chunk.js.map",
+    "index.html": "/assignment-Snaptrude/index.html",
+    "static/css/2.07949dcd.chunk.css.map": "/assignment-Snaptrude/static/css/2.07949dcd.chunk.css.map",
+    "static/css/main.314f80ed.chunk.css.map": "/assignment-Snaptrude/static/css/main.314f80ed.chunk.css.map",
+    "static/js/2.b9b196c9.chunk.js.LICENSE.txt": "/assignment-Snaptrude/static/js/2.b9b196c9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.838c7aaa.js",
+    "static/css/2.07949dcd.chunk.css",
+    "static/js/2.b9b196c9.chunk.js",
+    "static/css/main.314f80ed.chunk.css",
+    "static/js/main.ffb162fc.chunk.js"
+  ]
+}
