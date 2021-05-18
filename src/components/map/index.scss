@@ -1,0 +1,40 @@
+
+
+.page {
+  height: 100vh;
+  width: 100%;
+  // background-color: #262626;
+  display: flex;
+  justify-content: space-evenly;
+  .image {
+    padding: 20px 24px;
+    border-radius: 100px;
+  }
+  .render {
+    width: 600px;
+    padding: 20px 24px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    .button {
+        margin: 20px 0;
+      display: block;
+      width: 200px;
+      height: 36px;
+      border-radius: 18px;
+      background-color: #1c89ff;
+      border: solid 1px transparent;
+      color: #fff;
+      font-size: 18px;
+      font-weight: 300;
+      cursor: pointer;
+      transition: all 0.1s ease-in-out;
+      &:hover {
+        background-color: transparent;
+        border-color: #fff;
+        transition: all 0.1s ease-in-out;
+      }
+    }
+  }
+}
